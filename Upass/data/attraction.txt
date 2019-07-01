@@ -1,0 +1,3 @@
+roller ride	29	TRUE
+killer crush	30	TRUE
+speed face	15	FALSE
